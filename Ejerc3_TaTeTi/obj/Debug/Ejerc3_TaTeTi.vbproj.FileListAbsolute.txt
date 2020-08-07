@@ -1,0 +1,12 @@
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\bin\Debug\Ejerc3_TaTeTi.exe.config
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\bin\Debug\Ejerc3_TaTeTi.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\bin\Debug\Ejerc3_TaTeTi.pdb
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\bin\Debug\Ejerc3_TaTeTi.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\obj\Debug\Ejerc3_TaTeTi.vbprojAssemblyReference.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\obj\Debug\Ejerc3_TaTeTi.Form1.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\obj\Debug\Ejerc3_TaTeTi.Resources.resources
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\obj\Debug\Ejerc3_TaTeTi.vbproj.GenerateResource.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\obj\Debug\Ejerc3_TaTeTi.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\obj\Debug\Ejerc3_TaTeTi.exe
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\obj\Debug\Ejerc3_TaTeTi.xml
+D:\Proyectos Visual Basic (Visual Sudio IDE)\Ejerc3_TaTeTi\Ejerc3_TaTeTi\obj\Debug\Ejerc3_TaTeTi.pdb
